@@ -1,0 +1,6 @@
+NIM : 11223344
+Nama : Amin Nur Rais
+Kelas : 12.3A.37
+Link Github : https://github.com/aminkelasprojek
+
+Link Repository : https://github.com/aminkelasprojek/latihan-git.git
